@@ -1,6 +1,8 @@
 html,body{
+
 width: 100%;
 background-color: rgb(231, 231, 231);
+margin: 0%;
 }
 .cabecera{
     display: flex;
@@ -8,6 +10,8 @@ background-color: rgb(231, 231, 231);
     width: 100%;
     background-color: white;
     margin-bottom: 60px;
+    
+    
     }
 
 .top1{
