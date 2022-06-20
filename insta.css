@@ -1,0 +1,50 @@
+html,body{
+width: 100%;
+background-color: rgb(231, 231, 231);
+}
+.cabecera{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: white;
+    margin-bottom: 60px;
+    }
+
+.top1{
+display: flex;
+justify-content: center;
+justify-content: space-between;
+margin: 5px;
+
+}
+.numero1{
+color:grey
+    
+}
+
+.contenedor{
+
+
+
+width: 615px;
+background-color: white;
+margin: auto;
+
+}
+.pie1{
+display: flex;
+justify-content: space-between;
+
+margin-bottom: 30px;
+margin-right: 130px;
+margin-left: 15px;
+
+
+}
+img{
+
+    width: 615px;
+    height: 615px;
+
+
+}
